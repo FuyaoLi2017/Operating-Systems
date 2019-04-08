@@ -72,7 +72,7 @@ Likewise, a cache would be considered cold (ice) if an application is accessing 
 - security
 
 - system call examples
-![alter text](pictures/ud923-p1l2-windows-vs-linux-system-calls.png)
+![alter text](https://res.cloudinary.com/dbuk0to55/image/upload/v1554691015/ud923-p1l2-windows-vs-linux-system-calls.png)
 
 
 # System call quiz
